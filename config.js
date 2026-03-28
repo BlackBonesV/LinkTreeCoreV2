@@ -86,7 +86,7 @@ const CONFIG = {
     id:       "Setup",
     label:    "Setup",
     sublabel: "",
-    url:      "https://www.instagram.com/gg_corazon",
+    url:      "https://blackbonesv.github.io/HubSetupCore/",
     icon:     "Computer",
     color:    "#1ca127",
     },
