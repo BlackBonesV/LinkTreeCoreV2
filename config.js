@@ -64,7 +64,7 @@ const CONFIG = {
       sublabel: "Clips & moments forts",
       url:      "https://www.tiktok.com/@gg_corazon",
       icon:     "tiktok",
-      color:    "#ff0050",
+      color:    "#ffee00",
     },
     {
       id:       "instagram",
