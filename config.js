@@ -24,7 +24,7 @@ const CONFIG = {
   live: {
     isLive:       false,                 // true = badge "EN LIVE" animé visible
     liveLabel:    "🔴 EN LIVE MAINTENANT",
-    offlineLabel: "⚫ HORS LIGNE",
+    offlineLabel: "RETROUVEZ MOI SUR TWITCH",
     twitchChannel: "GG_CORAZON",         // Nom du channel Twitch (pour le lien live)
   },
 
@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id:       "youtube",
       label:    "YouTube",
-      sublabel: "VODs & highlights",
+      sublabel: "Highlights",
       url:      "https://www.youtube.com/@gg_corazon",
       icon:     "youtube",
       color:    "#ff0000",
@@ -73,22 +73,6 @@ const CONFIG = {
       url:      "https://www.instagram.com/gg_corazon",
       icon:     "instagram",
       color:    "#c23c69",
-    },
-    {
-    id:       "Dons",
-    label:    "Dons",
-    sublabel: "",
-    url:      "https://streamlabs.com/gg_corazon/tip",
-    icon:     "💵",
-    color:    "#cabd03",
-    },
-    {
-    id:       "Setup",
-    label:    "Setup",
-    sublabel: "",
-    url:      "https://blackbonesv.github.io/HubSetupCore/",
-    icon:     "Computer",
-    color:    "#1ca127",
     },
   ],
 

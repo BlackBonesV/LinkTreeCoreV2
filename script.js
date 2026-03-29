@@ -117,6 +117,8 @@
     kofi:      { fa: "fas fa-mug-hot",   },
     tipee:     { fa: "fas fa-hand-holding-heart", },
     twitch_live: { fa: "fas fa-circle-dot", },
+    setup:     { fa: "fas fa-computer", },
+    tips:      { fa: "fas fa-credit-card", },
   };
 
   // ── 7. Rendu des liens ─────────────────────────────────────
